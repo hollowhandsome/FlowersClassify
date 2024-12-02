@@ -1,6 +1,6 @@
 # FlowersClassify
-基于Resnet-18模型实现花卉图像分类<br>
-使用Pytorch编程库，对102 Catagory Flower Dataset数据集进行训练与测试<br>
+##基于Resnet-18模型实现花卉图像分类<br>
+##使用Pytorch编程库，对102 Catagory Flower Dataset数据集进行训练与测试<br>
 <br>
 第零步：配置pytorch环境，使用pip install命令下载tensorboard（用于绘制损失函数趋势图）<br><br>
 第一步：创建工程，将FlowerClassify.py与test.py加入工程。<br><br>
